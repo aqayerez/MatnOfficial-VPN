@@ -1,3 +1,4 @@
+vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?security=none&encryption=none&headerType=none&type=tcp#azadnet
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.194:443?path=%2F&security=tls&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20ws%20tls%20%28b16%29
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.241:443?path=%2F&security=tls&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20ws%20tls%20%28b16%29
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.113:8443?path=%2F&security=tls&encryption=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20ws%20tls%20%28b16%29
